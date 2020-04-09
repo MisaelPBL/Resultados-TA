@@ -1,0 +1,541 @@
+Logaritmica
+
+Prueba No: 1
+Coordenadas: 19.435726, -99.143893
+No Lugares: 234
+Correlacion: 0.0022785078423060616
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12963 ms, Buscar Museos
+AlgoritmoTA:      2201 ms, Buscar Zoologicos
+AlgoritmoTA:      9629 ms, Buscar Parques
+AlgoritmoTA:      8791 ms, Buscar LH
+AlgoritmoTA:      7061 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      3 ms, Calcular Tiempo Total
+AlgoritmoTA:      8 ms, Calcular Relacion P/W
+AlgoritmoTA:      988 ms, Ejecución AG
+AlgoritmoTA: end, 41644 ms
+
+Prueba No: 2
+Coordenadas: 19.432751, -99.133114
+No Lugares: 234
+Correlacion: 0.002083727978783861
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12629 ms, Buscar Museos
+AlgoritmoTA:      2249 ms, Buscar Zoologicos
+AlgoritmoTA:      9323 ms, Buscar Parques
+AlgoritmoTA:      8919 ms, Buscar LH
+AlgoritmoTA:      6639 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      4 ms, Calcular Tiempo Total
+AlgoritmoTA:      9 ms, Calcular Relacion P/W
+AlgoritmoTA:      691 ms, Ejecución AG
+AlgoritmoTA: end, 40463 ms
+
+Prueba No: 3
+Coordenadas: 19.485161, -99.117819
+No Lugares: 233
+Correlacion: 0.0025863966541932646
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12822 ms, Buscar Museos
+AlgoritmoTA:      2235 ms, Buscar Zoologicos
+AlgoritmoTA:      9638 ms, Buscar Parques
+AlgoritmoTA:      8389 ms, Buscar LH
+AlgoritmoTA:      6141 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      10 ms, Calcular Relacion P/W
+AlgoritmoTA:      686 ms, Ejecución AG
+AlgoritmoTA: end, 39921 ms
+
+Prueba No: 4
+Coordenadas: 19.479639, -99.139319
+No Lugares: 233
+Correlacion: 0.0013295285037940201
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12476 ms, Buscar Museos
+AlgoritmoTA:      2294 ms, Buscar Zoologicos
+AlgoritmoTA:      9534 ms, Buscar Parques
+AlgoritmoTA:      8180 ms, Buscar LH
+AlgoritmoTA:      5797 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      9 ms, Calcular Relacion P/W
+AlgoritmoTA:      691 ms, Ejecución AG
+AlgoritmoTA: end, 38981 ms
+
+Prueba No: 5
+Coordenadas: 19.546176, -99.147456
+No Lugares: 232
+Correlacion: 0.0013011257566329128
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12355 ms, Buscar Museos
+AlgoritmoTA:      2035 ms, Buscar Zoologicos
+AlgoritmoTA:      9541 ms, Buscar Parques
+AlgoritmoTA:      8401 ms, Buscar LH
+AlgoritmoTA:      6230 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      8 ms, Calcular Relacion P/W
+AlgoritmoTA:      678 ms, Ejecución AG
+AlgoritmoTA: end, 39248 ms
+
+Prueba No: 6
+Coordenadas: 19.352043, -99.193315
+No Lugares: 233
+Correlacion: 0.001714077315827863
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12639 ms, Buscar Museos
+AlgoritmoTA:      2337 ms, Buscar Zoologicos
+AlgoritmoTA:      8918 ms, Buscar Parques
+AlgoritmoTA:      8487 ms, Buscar LH
+AlgoritmoTA:      6254 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      682 ms, Ejecución AG
+AlgoritmoTA: end, 39320 ms
+
+Prueba No: 7
+Coordenadas: 19.303104, -99.150506
+No Lugares: 233
+Correlacion: 0.001313119255103259
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12540 ms, Buscar Museos
+AlgoritmoTA:      2138 ms, Buscar Zoologicos
+AlgoritmoTA:      9114 ms, Buscar Parques
+AlgoritmoTA:      8245 ms, Buscar LH
+AlgoritmoTA:      6080 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      4 ms, Calcular Relacion P/W
+AlgoritmoTA:      704 ms, Ejecución AG
+AlgoritmoTA: end, 38825 ms
+
+Prueba No: 8
+Coordenadas: 19.427061, -99.167514
+No Lugares: 233
+Correlacion: 0.0017287038399293807
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12932 ms, Buscar Museos
+AlgoritmoTA:      2435 ms, Buscar Zoologicos
+AlgoritmoTA:      9426 ms, Buscar Parques
+AlgoritmoTA:      8389 ms, Buscar LH
+AlgoritmoTA:      5945 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      692 ms, Ejecución AG
+AlgoritmoTA: end, 39822 ms
+
+Prueba No: 9
+Coordenadas: 19.44645, -99.150297
+No Lugares: 233
+Correlacion: 0.0020214448936544207
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12832 ms, Buscar Museos
+AlgoritmoTA:      3380 ms, Buscar Zoologicos
+AlgoritmoTA:      11170 ms, Buscar Parques
+AlgoritmoTA:      11422 ms, Buscar LH
+AlgoritmoTA:      14368 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      699 ms, Ejecución AG
+AlgoritmoTA: end, 53874 ms
+
+Prueba No: 10
+Coordenadas: 19.452487, -99.137261
+No Lugares: 234
+Correlacion: 0.0013575728957620115
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12514 ms, Buscar Museos
+AlgoritmoTA:      2443 ms, Buscar Zoologicos
+AlgoritmoTA:      9234 ms, Buscar Parques
+AlgoritmoTA:      8279 ms, Buscar LH
+AlgoritmoTA:      7071 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      5 ms, Calcular Relacion P/W
+AlgoritmoTA:      721 ms, Ejecución AG
+AlgoritmoTA: end, 40267 ms
+
+Prueba No: 11
+Coordenadas: 19.436381, -99.154426
+No Lugares: 234
+Correlacion: 0.0016230329546256439
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      13569 ms, Buscar Museos
+AlgoritmoTA:      2267 ms, Buscar Zoologicos
+AlgoritmoTA:      9307 ms, Buscar Parques
+AlgoritmoTA:      8287 ms, Buscar LH
+AlgoritmoTA:      7561 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      699 ms, Ejecución AG
+AlgoritmoTA: end, 41693 ms
+
+Prueba No: 12
+Coordenadas: 19.254841, -99.089113
+No Lugares: 234
+Correlacion: 9.106025813603609E-4
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      13292 ms, Buscar Museos
+AlgoritmoTA:      2231 ms, Buscar Zoologicos
+AlgoritmoTA:      8959 ms, Buscar Parques
+AlgoritmoTA:      8963 ms, Buscar LH
+AlgoritmoTA:      6901 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      701 ms, Ejecución AG
+AlgoritmoTA: end, 41050 ms
+
+Prueba No: 13
+Coordenadas: 19.319379, -99.186618
+No Lugares: 232
+Correlacion: 0.0016814886779762351
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      11865 ms, Buscar Museos
+AlgoritmoTA:      2882 ms, Buscar Zoologicos
+AlgoritmoTA:      9635 ms, Buscar Parques
+AlgoritmoTA:      8567 ms, Buscar LH
+AlgoritmoTA:      7672 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      1 ms, Calcular Tiempo Total
+AlgoritmoTA:      2 ms, Calcular Relacion P/W
+AlgoritmoTA:      692 ms, Ejecución AG
+AlgoritmoTA: end, 41316 ms
+
+Prueba No: 14
+Coordenadas: 19.405579, -99.09965
+No Lugares: 234
+Correlacion: 0.0015755532756851825
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12326 ms, Buscar Museos
+AlgoritmoTA:      2346 ms, Buscar Zoologicos
+AlgoritmoTA:      10073 ms, Buscar Parques
+AlgoritmoTA:      8588 ms, Buscar LH
+AlgoritmoTA:      7272 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      4 ms, Calcular Relacion P/W
+AlgoritmoTA:      692 ms, Ejecución AG
+AlgoritmoTA: end, 41301 ms
+
+Prueba No: 15
+Coordenadas: 19.385868, -99.226543
+No Lugares: 233
+Correlacion: 0.0013565657783672978
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12209 ms, Buscar Museos
+AlgoritmoTA:      2969 ms, Buscar Zoologicos
+AlgoritmoTA:      9302 ms, Buscar Parques
+AlgoritmoTA:      8586 ms, Buscar LH
+AlgoritmoTA:      6921 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      5 ms, Calcular Relacion P/W
+AlgoritmoTA:      703 ms, Ejecución AG
+AlgoritmoTA: end, 40695 ms
+
+Prueba No: 16
+Coordenadas: 19.360845, -99.164755
+No Lugares: 233
+Correlacion: 0.001621088243586129
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      13607 ms, Buscar Museos
+AlgoritmoTA:      2432 ms, Buscar Zoologicos
+AlgoritmoTA:      9620 ms, Buscar Parques
+AlgoritmoTA:      8179 ms, Buscar LH
+AlgoritmoTA:      7515 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      1 ms, Calcular Tiempo Total
+AlgoritmoTA:      4 ms, Calcular Relacion P/W
+AlgoritmoTA:      696 ms, Ejecución AG
+AlgoritmoTA: end, 42054 ms
+
+Prueba No: 17
+Coordenadas: 19.301788, -99.18162
+No Lugares: 233
+Correlacion: 0.0017463520645762183
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12175 ms, Buscar Museos
+AlgoritmoTA:      2039 ms, Buscar Zoologicos
+AlgoritmoTA:      9211 ms, Buscar Parques
+AlgoritmoTA:      9421 ms, Buscar LH
+AlgoritmoTA:      6480 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      693 ms, Ejecución AG
+AlgoritmoTA: end, 40022 ms
+
+Prueba No: 18
+Coordenadas: 19.226915, -98.965518
+No Lugares: 232
+Correlacion: 5.976605857073741E-4
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12908 ms, Buscar Museos
+AlgoritmoTA:      3370 ms, Buscar Zoologicos
+AlgoritmoTA:      9516 ms, Buscar Parques
+AlgoritmoTA:      8606 ms, Buscar LH
+AlgoritmoTA:      6934 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      701 ms, Ejecución AG
+AlgoritmoTA: end, 42038 ms
+
+Prueba No: 19
+Coordenadas: 19.218084, -99.205533
+No Lugares: 233
+Correlacion: 9.421560035056967E-4
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12041 ms, Buscar Museos
+AlgoritmoTA:      2140 ms, Buscar Zoologicos
+AlgoritmoTA:      9421 ms, Buscar Parques
+AlgoritmoTA:      8207 ms, Buscar LH
+AlgoritmoTA:      6578 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      1 ms, Calcular Tiempo Total
+AlgoritmoTA:      2 ms, Calcular Relacion P/W
+AlgoritmoTA:      710 ms, Ejecución AG
+AlgoritmoTA: end, 39100 ms
+
+Prueba No: 20
+Coordenadas: 19.420753, -99.181851
+No Lugares: 233
+Correlacion: 0.0019104137874969517
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12146 ms, Buscar Museos
+AlgoritmoTA:      2145 ms, Buscar Zoologicos
+AlgoritmoTA:      9942 ms, Buscar Parques
+AlgoritmoTA:      8707 ms, Buscar LH
+AlgoritmoTA:      6072 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      699 ms, Ejecución AG
+AlgoritmoTA: end, 39714 ms
+
+Prueba No: 21
+Coordenadas: 19.499758, -99.210754
+No Lugares: 234
+Correlacion: 0.0012261228704181725
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12794 ms, Buscar Museos
+AlgoritmoTA:      3565 ms, Buscar Zoologicos
+AlgoritmoTA:      9623 ms, Buscar Parques
+AlgoritmoTA:      8392 ms, Buscar LH
+AlgoritmoTA:      6670 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      685 ms, Ejecución AG
+AlgoritmoTA: end, 41732 ms
+
+Prueba No: 22
+Coordenadas: 19.318541, -99.032161
+No Lugares: 234
+Correlacion: 0.0010720202709287596
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12319 ms, Buscar Museos
+AlgoritmoTA:      2237 ms, Buscar Zoologicos
+AlgoritmoTA:      8911 ms, Buscar Parques
+AlgoritmoTA:      8575 ms, Buscar LH
+AlgoritmoTA:      6350 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      704 ms, Ejecución AG
+AlgoritmoTA: end, 39099 ms
+
+Prueba No: 23
+Coordenadas: 19.313624, -99.309601
+No Lugares: 231
+Correlacion: 5.565555134520653E-4
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      13199 ms, Buscar Museos
+AlgoritmoTA:      2433 ms, Buscar Zoologicos
+AlgoritmoTA:      9497 ms, Buscar Parques
+AlgoritmoTA:      8502 ms, Buscar LH
+AlgoritmoTA:      7009 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      691 ms, Ejecución AG
+AlgoritmoTA: end, 41334 ms
+
+Prueba No: 24
+Coordenadas: 19.402627, -99.208645
+No Lugares: 233
+Correlacion: 0.001554264089741857
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12285 ms, Buscar Museos
+AlgoritmoTA:      2117 ms, Buscar Zoologicos
+AlgoritmoTA:      10250 ms, Buscar Parques
+AlgoritmoTA:      8791 ms, Buscar LH
+AlgoritmoTA:      6628 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      698 ms, Ejecución AG
+AlgoritmoTA: end, 40772 ms
+
+Prueba No: 25
+Coordenadas: 19.468629, -99.19737
+No Lugares: 232
+Correlacion: 0.0012038303693570453
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12806 ms, Buscar Museos
+AlgoritmoTA:      2948 ms, Buscar Zoologicos
+AlgoritmoTA:      10549 ms, Buscar Parques
+AlgoritmoTA:      9383 ms, Buscar LH
+AlgoritmoTA:      6573 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      710 ms, Ejecución AG
+AlgoritmoTA: end, 42972 ms
+
+Prueba No: 26
+Coordenadas: 19.436117, -99.071833
+No Lugares: 237
+Correlacion: 0.0015049938432070051
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      13918 ms, Buscar Museos
+AlgoritmoTA:      2957 ms, Buscar Zoologicos
+AlgoritmoTA:      9122 ms, Buscar Parques
+AlgoritmoTA:      8482 ms, Buscar LH
+AlgoritmoTA:      6090 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      2 ms, Calcular Relacion P/W
+AlgoritmoTA:      716 ms, Ejecución AG
+AlgoritmoTA: end, 41287 ms
+
+Prueba No: 27
+Coordenadas: 19.323428, -99.143414
+No Lugares: 232
+Correlacion: 0.0013097029482249346
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12409 ms, Buscar Museos
+AlgoritmoTA:      3114 ms, Buscar Zoologicos
+AlgoritmoTA:      9634 ms, Buscar Parques
+AlgoritmoTA:      8019 ms, Buscar LH
+AlgoritmoTA:      7027 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      685 ms, Ejecución AG
+AlgoritmoTA: end, 40891 ms
+
+Prueba No: 28
+Coordenadas: 19.352401, -99.14289
+No Lugares: 233
+Correlacion: 0.0016392248287920735
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12947 ms, Buscar Museos
+AlgoritmoTA:      2133 ms, Buscar Zoologicos
+AlgoritmoTA:      9429 ms, Buscar Parques
+AlgoritmoTA:      8181 ms, Buscar LH
+AlgoritmoTA:      8317 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      3 ms, Calcular Relacion P/W
+AlgoritmoTA:      699 ms, Ejecución AG
+AlgoritmoTA: end, 41709 ms
+
+Prueba No: 29
+Coordenadas: 19.497038, -99.139048
+No Lugares: 233
+Correlacion: 0.0013436455397522447
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12299 ms, Buscar Museos
+AlgoritmoTA:      2236 ms, Buscar Zoologicos
+AlgoritmoTA:      9233 ms, Buscar Parques
+AlgoritmoTA:      8881 ms, Buscar LH
+AlgoritmoTA:      8068 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      2 ms, Calcular Relacion P/W
+AlgoritmoTA:      700 ms, Ejecución AG
+AlgoritmoTA: end, 41419 ms
+
+Prueba No: 30
+Coordenadas: 19.440788, -99.223506
+No Lugares: 233
+Correlacion: 0.0012859097127222983
+Mejor Individuo: 
+Mejor Ganancia: 0.0
+Mejor Peso: 0.0
+AlgoritmoTA: begin
+AlgoritmoTA:      12760 ms, Buscar Museos
+AlgoritmoTA:      1933 ms, Buscar Zoologicos
+AlgoritmoTA:      9118 ms, Buscar Parques
+AlgoritmoTA:      8180 ms, Buscar LH
+AlgoritmoTA:      6307 ms, Obtener Tiempo Lugares
+AlgoritmoTA:      0 ms, Calcular Tiempo Total
+AlgoritmoTA:      2 ms, Calcular Relacion P/W
+AlgoritmoTA:      699 ms, Ejecución AG
+AlgoritmoTA: end, 38999 ms

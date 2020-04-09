@@ -1,0 +1,264 @@
+Prueba: 28
+
+01101010110011100000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+...:::LISTA ORIGINAL:::...
+
+Tamaño: 236
+
+0:    Parroquia de Santa María Magdalena: 4.1   ---   2968.4
+1:    Basilica of Our Lady of Guadalupe: 4.7   ---   3412.8
+2:    Parroquia de la Santísima Trinidad y Nuestra Señora del Refugio: 4.6   ---   3447.0
+3:    Parroquia del Inmaculado Corazón de María: 4.6   ---   4078.2
+4:    Restauración Iglesia Cristiana: 4.4   ---   3913.8
+5:    Parroquia San Salvador de las Flores: 4.5   ---   4112.0
+6:    Iglesia de Nuestra Señora del Sagrado Corazón: 4.6   ---   4262.6
+7:    SANTUARIO PARROQUIAL NUESTRA SEÑORA DE LOS ANGELES: 4.2   ---   3934.6
+8:    Parroquia Merced de las Huertas: 4.4   ---   4301.4
+9:    Parroquia Santa Eduwiges: 4.4   ---   4356.0
+10:    Templo de Santiago apóstol: 4.3   ---   4297.4
+11:    Parroquia de Santa María la Redonda: 4.4   ---   4477.0
+12:    Parroquia de San Fernando: 4.2   ---   4347.2
+13:    Church of San Francisco: 4.7   ---   4937.2
+14:    San Juan de Dios Church: 4.3   ---   4600.6
+15:    Parroquia Coronación de Santa María de Guadalupe: 4.7   ---   5052.4
+16:    Church of Santa Ines: 3.8   ---   4096.2
+17:    Parroquía de Santa Catarina: 4.3   ---   4638.2
+18:    Santa Veracruz Church, Mexico City: 4.2   ---   4714.6
+19:    Parroquia De La Resurrección Del Señor: 4.4   ---   4975.4
+20:    St. Augustine Parish: 4.7   ---   5334.0
+21:    Templo de San Felipe Neri La Profesa: 4.6   ---   5222.6
+22:    Regina Coeli parish: 4.4   ---   5093.6
+23:    Parroquia de Nuestra Señora del Sagrado Corazón: 4.5   ---   5252.2
+24:    Church of San Bernardo: 4.4   ---   5200.4
+25:    Parroquía de la Divina Providencia: 4.6   ---   5534.8
+26:    IGLESIA SANTA MARÍA MAGDALENA ATOLMAN: 4.3   ---   5263.6
+27:    Mexico City Metropolitan Cathedral: 4.7   ---   5772.6
+28:    Chapel of Animas: 4.5   ---   5560.0
+29:    Regional Art Museum: 4.5   ---   5567.8
+30:    Museo Universitario del Chopo: 4.5   ---   5595.2
+31:    Museo del Instituto de Geología de la UNAM: 4.6   ---   5749.8
+32:    Parroquia Francesa - Cristo Resucitado y Nuestra Señora de Lourdes: 4.7   ---   5910.2
+33:    Parroquia del Divino Salvador: 4.6   ---   5934.0
+34:    Nuestra Señora del Socorro: 4.6   ---   6085.4
+35:    The National Museum of San Carlos: 4.6   ---   6092.8
+36:    Museo de Arte Popular: 4.7   ---   6238.2
+37:    Iglesia de Nuestra Señora de Covadonga: 4.6   ---   6106.8
+38:    Museo Casa de Carranza: 4.6   ---   6149.0
+39:    Museo de Cera: 4.6   ---   6234.2
+40:    Machete: Latin American Contemporary Art Gallery: 4.7   ---   6424.4
+41:    Palacio de Bellas Artes: 4.8   ---   6590.0
+42:    Parish St. John the Evangelist and Our Lady of Guadalupe: 4.7   ---   6463.2
+43:    Museo Nacional de Arquitectura: 4.8   ---   6601.4
+44:    Museo Nacional de la Estampa: 4.5   ---   6191.0
+45:    Museo Nacional De Arte (MUNAL): 4.8   ---   6613.8
+46:    Memory and Tolerance Museum: 4.7   ---   6479.0
+47:    Museo del Chocolate: 4.5   ---   6210.0
+48:    Museo Franz Mayer: 4.6   ---   6400.8
+49:    Jardín del Arte: 4.3   ---   6069.2
+50:    Interactive Museum of Economics: 4.6   ---   6494.4
+51:    Proyecto H Contemporáneo: 5.0   ---   7060.8
+52:    MI Indian Museum: 4.5   ---   6357.8
+53:    MI Indian Museum: 4.5   ---   6357.8
+54:    YAWÍ: 4.8   ---   6807.4
+55:    Rectory Lord of Marvels: 4.6   ---   6590.8
+56:    Museo Nacional de Antropología: 4.8   ---   6887.4
+57:    Museo de la Torre Latinoamericana: 4.7   ---   6754.6
+58:    Galería Hilario Galguera: 4.3   ---   6196.4
+59:    Parroquia San Luis Gonzaga: 4.5   ---   6487.2
+60:    Diego Rivera Mural Museum: 4.5   ---   6526.4
+61:    Museo Experimental el Eco: 4.2   ---   6100.4
+62:    Galería Casa Lamm: 4.6   ---   6702.2
+63:    MODO Museo del Objeto: 4.5   ---   6575.4
+64:    PROYECTOSMONCLOVA: 4.5   ---   6597.0
+65:    Galería Mascota: 4.6   ---   6768.6
+66:    Palacio de la Escuela de Medicina: 4.6   ---   6769.6
+67:    Former College of San Ildefonso: 4.7   ---   6948.4
+68:    Museo de Arte Moderno: 4.6   ---   6815.0
+69:    Museo del Caracol: 4.6   ---   6911.8
+70:    Arroniz Contemporary Art: 4.5   ---   6789.0
+71:    Museo Tamayo Arte Contemporáneo: 4.4   ---   6650.8
+72:    Museum of light: 4.5   ---   6819.4
+73:    Estanquillo Museum: 4.6   ---   6989.6
+74:    Parroquia De Monte Carmelo: 4.4   ---   6705.0
+75:    Parroquia de San Matías Apóstol: 4.4   ---   6708.6
+76:    Galería RGR: 4.6   ---   7031.4
+77:    Traeger & Pinto Contemporary Art: 4.5   ---   6883.8
+78:    Museo ídolos del Esto: 3.8   ---   5815.6
+79:    Parroquia de Las Llagas de Nuestro Señor Jesucristo: 4.3   ---   6586.6
+80:    Galería Aguafuerte: 4.5   ---   6893.8
+81:    Chapel of Santa Catarina: 4.6   ---   7093.0
+82:    Iglesia San Jose de las Palmas: 4.4   ---   6800.0
+83:    Mexican Art Gallery GAM: 4.5   ---   6987.6
+84:    Galería de arte de la SHCP: 4.6   ---   7171.6
+85:    Museo Nacional de las Culturas: 4.7   ---   7378.0
+86:    Galeria Ethra: 4.1   ---   6452.8
+87:    Parroquia de Santa Catalina: 4.5   ---   7083.0
+88:    Iglesia De Coyoacan: 4.7   ---   7397.8
+89:    Museo Jumex: 4.6   ---   7250.2
+90:    DLonngi ART: 4.5   ---   7109.0
+91:    UNAM Museo de las Constituciones: 4.5   ---   7116.6
+92:    House Museum of Memory Indómita: 4.5   ---   7124.4
+93:    Parroquia San Juan Bautista: 4.7   ---   7455.4
+94:    Parroquia de San Josemaría Escrivá: 4.7   ---   7465.8
+95:    ArtSpace Mexico: 4.5   ---   7151.4
+96:    White Cremnitz: 4.3   ---   6872.2
+97:    kurimanzutto: 4.5   ---   7198.4
+98:    House of Gaga: 4.4   ---   7057.0
+99:    Church of Our Lady of Lebanon Lebanese Maronite Order: 4.5   ---   7219.8
+100:    Museo Universitario de Ciencias y Artes (MUCA) Roma: 4.2   ---   6769.2
+101:    Soumaya Museum: 4.7   ---   7606.8
+102:    Parroquia San Jacinto: 4.7   ---   7622.6
+103:    OSCAR ROMÁN GALLERY ART AND DESIGN: 4.6   ---   7473.8
+104:    Museo del Genoma Mesoamericano: 4.6   ---   7480.4
+105:    Carré d'artistes®: 4.5   ---   7320.4
+106:    Parroquia de la Santa Cruz de la Herradura: 4.6   ---   7539.6
+107:    Museo de la Charreria: 4.3   ---   7081.2
+108:    Parroquia de Jesús Sacramentado: 4.5   ---   7434.8
+109:    Galería Arte XXI: 4.3   ---   7198.6
+110:    AURA GALERIAS: 4.8   ---   8046.8
+111:    Papalote Museo del Niño: 4.5   ---   7546.6
+112:    PARQUE Galería: 4.2   ---   7087.8
+113:    OVALO Galería de Arte: 4.5   ---   7619.4
+114:    Saint Anthony of padua: 4.4   ---   7454.6
+115:    CHURCH Cuevita: 4.4   ---   7496.8
+116:    Toy Museum Old Mexico street Art: 4.2   ---   7168.0
+117:    Santa Isabel Prima rectory of Holy Mary: 4.4   ---   7550.0
+118:    Templo Mayor Museum: 4.8   ---   8260.0
+119:    Museo de Historia Natural: 4.7   ---   8115.2
+120:    LS / Galería | Galería de Arte Moderno y Contemporáneo: 4.3   ---   7499.2
+121:    Málaga gallery. Contemporary art: 4.7   ---   8427.6
+122:    Museum Adolfo Lopez Mateos: 4.2   ---   7626.0
+123:    Natural History Museum of Ecatepec: 4.4   ---   8042.6
+124:    Nichos del Templo de Santa María de la Anunciación: 4.5   ---   8231.6
+125:    Art point: 4.2   ---   7694.4
+126:    Metro Museum: 4.4   ---   8082.4
+127:    Rectoria de la Divina Providencia: 4.1   ---   7560.2
+128:    Parroquia de Santa Maria de Guadalupe y San Bernardo Abad: 4.3   ---   7969.4
+129:    Centro Nacional de las Artes: 4.7   ---   8741.6
+130:    Iglesia San Jose Del Buen Consejo: 4.5   ---   8397.8
+131:    Museum of Man Tepexpan: 4.1   ---   7732.6
+132:    Museo Casa de León Trotsky: 4.5   ---   8627.0
+133:    Frida Kahlo Museum: 4.5   ---   8702.2
+134:    San Pedro Apostol Church: 4.5   ---   8752.6
+135:    National Museum of Interventions: 4.6   ---   9016.4
+136:    Alfredo Guati Rojo National Watercolor Museum: 4.6   ---   9049.6
+137:    Alfredo Guati Rojo National Watercolor Museum: 4.6   ---   9049.6
+138:    Museum of El Carmen: 4.7   ---   9261.0
+139:    Museo Nacional del Virreinato: 4.7   ---   9280.6
+140:    Arte Carrillo Gil Museum: 4.5   ---   8886.2
+141:    Alcaldía Iztapalapa: 3.8   ---   7541.2
+142:    Museo Anahuacalli: 4.7   ---   9868.2
+143:    Museo Anahuacalli: 4.7   ---   9868.2
+144:    Museo Militar De Aviación: 4.7   ---   9886.6
+145:    Parish of Our Father: 4.6   ---   9801.8
+146:    Museum of Cultures By Iztapalapa Passion: 4.4   ---   9550.2
+147:    University Museum Contemporary Art: 4.7   ---   10224.2
+148:    Parroquia Jesus Sacerdote: 4.3   ---   9726.0
+149:    Museo del Tiempo Tlalpan, A.C.: 4.7   ---   10682.4
+150:    Universum: 4.6   ---   10676.6
+151:    Mariana Garcia Arte Contemporaneo: 3.0   ---   7073.8
+152:    Parroquia de Cristo del Mar: 4.4   ---   10455.8
+153:    Arte Hoy Galería: 3.6   ---   8656.4
+154:    Acuario Interactivo: 4.6   ---   11194.4
+155:    Museo Dolores Olmedo: 4.7   ---   11487.6
+156:    Acuario Inbursa: 4.5   ---   10999.4
+157:    Zoo San Juan De Aragon: 4.1   ---   10157.4
+158:    New Fire Museum: 4.4   ---   11283.4
+159:    Alameda de Santa María: 4.5   ---   12002.6
+160:    Parque Tezozómoc: 4.4   ---   11913.0
+161:    Alameda Central: 4.6   ---   12618.0
+162:    Zoológico de Chapultepec: 4.1   ---   11497.4
+163:    Parque Bicentenario: 4.7   ---   13659.8
+164:    Pushkin Garden: 4.4   ---   12884.0
+165:    101 Art Galleries: 3.3   ---   9669.6
+166:    Parque España: 4.5   ---   13253.4
+167:    Parque Hundido Bosque De Echegaray: 4.4   ---   13022.6
+168:    PUBLICO "PEDRO PLASCENCIA SALINAS" Park: 4.2   ---   12536.2
+169:    Parque Lincoln: 4.6   ---   13760.0
+170:    Ehécatl Ecological Park: 4.4   ---   13441.8
+171:    Gustavo A. Madero Park: 3.9   ---   11928.0
+172:    El Tepeyac National Park: 4.1   ---   12571.2
+173:    Parque Ecológico EHECATL: 4.5   ---   13979.0
+174:    Bosque de Chapultepec: 4.6   ---   14315.6
+175:    Parque Naucalli: 4.4   ---   13717.6
+176:    Zoológico Los Coyotes: 4.4   ---   13814.4
+177:    Parque Del Pueblo Zoologico: 4.2   ---   13188.2
+178:    Parque Hundido: 4.6   ---   14458.2
+179:    Cañitas Park: 4.1   ---   12909.4
+180:    Alfonso Esparza Oteo Park: 4.5   ---   14200.0
+181:    Recreativo Familiar Caneguin Park: 4.3   ---   13574.0
+182:    María Enriqueta Park: 4.3   ---   13670.0
+183:    Parque Pombo: 4.3   ---   13861.2
+184:    Parque San Lorenzo: 4.5   ---   14627.2
+185:    Jesus Galindo y Villa Park: 4.4   ---   14368.0
+186:    Arboledas Park: 4.5   ---   14799.0
+187:    SEMARNAT Bioparque San Antonio: 4.5   ---   14863.6
+188:    La Mexicana Park: 4.7   ---   15580.6
+189:    Azcatl Paqui: 4.0   ---   13298.6
+190:    Niño Quemado Park: 4.0   ---   13350.4
+191:    Jardín del Arte (Parque Tlacoquemécatl): 4.4   ---   14688.4
+192:    Iztaccíhuatl "José Mariano Muciño" Park: 4.3   ---   14528.2
+193:    Pascual Ortíz Rubio Public Park: 4.4   ---   14884.2
+194:    Parque Escuela Urbano Ecológico Iztacalco: 4.4   ---   14938.0
+195:    Parque Ecológico Las Aguilas: 4.4   ---   14974.2
+196:    Esculturas Park: 4.4   ---   15035.8
+197:    Bombilla Park: 4.6   ---   15726.0
+198:    Parque Acacias: 4.4   ---   15074.6
+199:    Espejo de los Lirios Park: 4.3   ---   14773.6
+200:    Parque Temático Tlalocan: 4.6   ---   16014.4
+201:    Parque Lineal: 3.9   ---   13641.2
+202:    Parque Alerces: 4.4   ---   15414.2
+203:    San Simón Ticumac Park: 4.1   ---   14537.0
+204:    Parque Xicoténcatl: 4.3   ---   15304.6
+205:    Mariano Matamoros Park: 4.1   ---   14612.0
+206:    Tlalpan National Park: 4.6   ---   16417.4
+207:    ACTEAL Park: 4.0   ---   14288.0
+208:    Parque El Batán: 4.3   ---   15534.2
+209:    Parque San Luis Potosi: 4.3   ---   15682.8
+210:    PARQUE RECREATIVO MIRAVALLE: 3.9   ---   14315.6
+211:    Parque de las Montañas: 4.3   ---   15802.4
+212:    Parque Eco-Turistico Santa Maria Mazatla: 4.8   ---   17740.0
+213:    PARQUE MASAYOSHI OHIRA: 4.3   ---   16298.0
+214:    Patoli Park: 4.0   ---   15192.8
+215:    Parque ecológico Presa Tarango: 4.1   ---   15593.2
+216:    parque pantitlan: 3.8   ---   14735.6
+217:    Tlaltecahuacan Park: 4.3   ---   16974.6
+218:    Huayamilpas Ecological Park: 4.0   ---   16397.4
+219:    Parque Patolli: 3.8   ---   16078.4
+220:    Uno Park: 3.8   ---   16289.6
+221:    parque rosendo: 3.3   ---   14559.0
+222:    Cerro de la Estrella National Park: 4.4   ---   25019.2
+223:    Theme Park "Mini Worlds": 4.4   ---   32334.8
+224:    Parque Temático Tlalocan: 4.6   ---   34914.4
+225:    La Feria Chapultepec Mágico: 4.3   ---   32837.6
+226:    Six Flags México: 4.5   ---   35521.2
+227:    KidZania Cuicuilco: 4.5   ---   35572.8
+228:    Tierra Extrema: 4.4   ---   35113.8
+229:    Granja las Américas: 4.4   ---   35240.6
+230:    Perimagico: 4.1   ---   32891.2
+231:    ZONA EXTREMA PARQUE INTERLOMAS: 4.4   ---   35373.6
+232:    ¡Kataplum!: 4.3   ---   36130.2
+233:    Galeria Art Forum S.A.: 0.0   ---   9025.6
+234:    1 MES 1 ARTISTA: 0.0   ---   6173.4
+235:    Galeria Malaga arte contemporáneo: 0.0   ---   8422.2
+
+
+
+
+...:::LISTA RECOMENDACIONES:::...
+
+1:    Basilica of Our Lady of Guadalupe: 4.7   ---   3412.8
+2:    Parroquia de la Santísima Trinidad y Nuestra Señora del Refugio: 4.6   ---   3447.0
+4:    Restauración Iglesia Cristiana: 4.4   ---   3913.8
+6:    Iglesia de Nuestra Señora del Sagrado Corazón: 4.6   ---   4262.6
+8:    Parroquia Merced de las Huertas: 4.4   ---   4301.4
+9:    Parroquia Santa Eduwiges: 4.4   ---   4356.0
+12:    Parroquia de San Fernando: 4.2   ---   4347.2
+13:    Church of San Francisco: 4.7   ---   4937.2
+14:    San Juan de Dios Church: 4.3   ---   4600.6
+20:    St. Augustine Parish: 4.7   ---   5334.0
+
+
+Tamaño: 10
+
